@@ -1,0 +1,13 @@
+[project]
+name = "deeplearningaz"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "ipykernel>=6.29.5",
+    "numpy>=2.1.3",
+    "pandas>=2.2.3",
+    "scikit-learn>=1.6.1",
+    "tensorflow>=2.19.0",
+]
